@@ -57,27 +57,27 @@ Explore curated lists of resources focusing on iOS development, including jailbr
 
 ### TrollStore
 
-TrollStore is a utility for iOS that allows you to permanently sign and install any IPA file, even on non-jailbroken devices.
+TrollStore AppStore is a utility for iOS that allows you to permanently sign and install any IPA file, even on non-jailbroken devices.
 
-- [TrollStore Repo link](https://github.com/iOSSource/TrollStore)
+- [TrollStore Repo link](https://iospack.com/apps/trollsme-trollstore/)
 
 ### EeveeSpotify
 
 EeveeSpotify enhances the Spotify app on iOS, providing Spotify Premium features for free, such as ad-free listening and unlimited skips.
 
-- [EeveeSpotify Repo link](https://github.com/iOSSource/EeveeSpotify)
+- [EeveeSpotify Repo link](https://iospack.com/apps/download-itweaked-store/)
 
 ### Kodi for iOS
 
 Kodi is a versatile media player for iOS, supporting playback of videos, music, podcasts, and more from various sources.
 
-- [Kodi for iOS Repo link](https://github.com/iOSSource/Kodi)
+- [Kodi for iOS Repo link](https://iospack.com/apps/download-itweaked-store/)
 
 ### Scarlet App Installer
 
 Scarlet is a third-party app installer for iOS, enabling installation and management of apps outside the official App Store.
 
-- [Scarlet iOS App Repo link](https://github.com/iOSSource/Scarlet-iOS-App-Download)
+- [Scarlet iOS App Repo link](https://iospack.com/apps/download-itweaked-store/)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
